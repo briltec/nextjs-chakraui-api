@@ -19,3 +19,48 @@ yarn dev
 - Open [http://localhost:3000](http://localhost:3000/)
 - You will see following error
 <img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/init-error.PNG" />
+
+> __note__
+We need to setup firebase project.
+
+## Step - 04
+Follow following screenshots
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-1.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-2.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-3.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-4.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-5.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-6.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-7.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-8.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-9.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-10.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-11.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-12.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-13.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-14.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-15.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-16.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-17.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-18.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-19.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-20.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-21.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-22.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-23.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-24.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-25.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-26.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-27.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-28.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-29.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-30.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-31.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-32.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-33.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-34.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-35.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-36.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-37.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-38.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/firebase-39.PNG" />
