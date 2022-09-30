@@ -18,4 +18,4 @@ yarn dev
 ### Step - 03
 - Open [http://localhost:3000](http://localhost:3000/)
 - You will see following error
-<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/assets/images/init-error.PNG" />
+<img src="https://github.com/aahmedfaraz/nextjs-and-firebase-auth/blob/main/assets/images/init-error.PNG" />
