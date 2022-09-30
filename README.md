@@ -2,7 +2,10 @@
 This repo contains NextJS Todo App with Chakra UI , React Hooks and Firebase Database.
 
 # STEPS
-### $$\textcolor{yellow}{\text{Step - 01}}$$
+# Color Test Document
+<style>H3{color:Yellow;}</style>
+
+### Step - 01
 Create a `Folder` and open it in your command line.
 
 ### Step - 02
