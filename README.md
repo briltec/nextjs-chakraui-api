@@ -8,7 +8,7 @@ Create a `Folder` and open it in your command line.
 ## Step - 02 - Clone Repo
 Run following commands inside your command line.
 ```
-git clone https://github.com/briltec/next-firebase-auth.git
+git clone https://github.com/briltec/nextjs-chakraui-api.git
 cd .\next-firebase-auth\example\
 code .
 yarn
